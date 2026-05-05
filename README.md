@@ -5,7 +5,7 @@
 <details>
 <summary>Generate this dashboard from your own data</summary>
 
-```bash
+```bash 
 python3 skill.py --demo    # seed sample data → open ~/.finance/dashboard_demo.html
 python3 skill.py --dashboard  # generate from your real data → ~/.finance/dashboard.html
 ```
